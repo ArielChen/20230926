@@ -1,0 +1,22 @@
+{
+  "name": "iel",
+  "version": "0.0.0",
+  "description": "TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "JEST"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielchen/20230926.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Ariel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielchen/20230926/issues"
+  },
+  "homepage": "https://github.com/arielchen/20230926#readme"
+}
