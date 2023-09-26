@@ -4,7 +4,8 @@
   "description": "TEST",
   "main": "index.js",
   "scripts": {
-    "test": "JEST"
+    "test": "JEST",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/arielchen/20230926/issues"
   },
-  "homepage": "https://github.com/arielchen/20230926#readme"
+  "homepage": "https://github.com/arielchen/20230926#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "husky": "^8.0.0",
+    "semantic-release": "^22.0.5"
+  }
 }
